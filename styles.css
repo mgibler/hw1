@@ -1,0 +1,24 @@
+nav  {
+  font-size: 20px;
+  background: #4f6367;
+    box-shadow: 0px 4px 0px #AAA;
+    }
+
+h2 {
+  padding: 8px;
+  background: #4f6367;
+  box-shadow: 3px 3px 3px #AAA;
+  color: #FFF;
+}
+
+.bg-img {
+  background-image: url('http://www.photos-public-domain.com/wp-content/uploads/2012/09/soap-bubbles.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+}
+
+.rounded-circle {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
